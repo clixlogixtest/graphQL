@@ -50,3 +50,9 @@ mutation deleteMutation{
     } 
   }
 }
+
+
+For test case:
+
+cd to Business dir. and run: pytest test_cases
+All test cases will run automatically
